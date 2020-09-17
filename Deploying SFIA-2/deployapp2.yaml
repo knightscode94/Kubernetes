@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: service2
-        image: omriselda/app2
+        image: knightscode94/service2
         resources:
           limits:
             memory: "128Mi"

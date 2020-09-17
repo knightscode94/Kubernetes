@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: service3
-        image: omriselda/app3
+        image: knightscode94/service3
         resources:
           limits:
             memory: "128Mi"
